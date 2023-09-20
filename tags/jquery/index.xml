@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jQuery on Lumy</title>
-    <link>https://example.com/tags/jquery/</link>
+    <link>https://gummiteddy.github.io/tags/jquery/</link>
     <description>Recent content in jQuery on Lumy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gummiteddy.github.io/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TBA</title>
-      <link>https://example.com/projects/contributions/deploy-triggers/</link>
+      <link>https://gummiteddy.github.io/projects/contributions/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/contributions/deploy-triggers/</guid>
+      <guid>https://gummiteddy.github.io/projects/contributions/deploy-triggers/</guid>
       <description>TBA</description>
     </item>
     
